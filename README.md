@@ -1,9 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url=https://gaking79.tax/">
+<meta charset="utf-8">
+<title>Đang chuyển hướng...</title>
+
+<script>
+setTimeout(function() {
+    window.location.href = "https://www.highlandscoffee.com.vn/";
+}, 1000);
+</script>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    text-align:center;
+    padding-top:100px;
+}
+</style>
+
 </head>
 <body>
-Đang chuyển hướng...
+<h2>Đang chuyển đến website...</h2>
+<p>Vui lòng chờ 5 giây.</p>
 </body>
 </html>
